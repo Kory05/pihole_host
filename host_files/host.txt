@@ -1,0 +1,5 @@
+# General Host
+
+
+# Anuncios
+0.0.0.0 logs.ads.vungle.com	# Vungle: Plataforma de publicidad móvil utilizada en aplicaciones gratuitas
