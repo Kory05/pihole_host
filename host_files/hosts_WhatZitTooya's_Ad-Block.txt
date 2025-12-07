@@ -1337,7 +1337,6 @@
 0.0.0.0 d17ndjuagurpsr.cloudfront.net
 0.0.0.0 d2dieaj0i9bfkz.cloudfront.net
 0.0.0.0 d3owvgesicftp9.cloudfront.net
-0.0.0.0 go-updater.brave.com
 0.0.0.0 grant.rewards.brave.com
 0.0.0.0 laptop-updates.brave.com
 0.0.0.0 p3a.brave.com
