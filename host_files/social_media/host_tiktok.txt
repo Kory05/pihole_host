@@ -183,3 +183,6 @@
 0.0.0.0 sf-launch-protect.tiktokcdn.com
 0.0.0.0 sf-launch-protect.tiktokcdn.com
 0.0.0.0 p16-common-sign.tiktokcdn-eu.com
+0.0.0.0 webcast16-normal-no1a.tiktokv.eu
+0.0.0.0 log16-normal-no1a.tiktokv.eu
+0.0.0.0 sf16.tiktokcdn-us.com
