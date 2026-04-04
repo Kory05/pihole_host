@@ -178,3 +178,7 @@
 0.0.0.0 pull-flv-f60-tt04.tiktokcdn-eu.com
 0.0.0.0 gecko32-normal-no1a.tiktokv.eu
 0.0.0.0 libra32-normal-no1a.tiktokv.eu
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktokcdn-eu.com
+0.0.0.0 sf-launch-protect.tiktokcdn.com
+0.0.0.0 sf-launch-protect.tiktokcdn.com
