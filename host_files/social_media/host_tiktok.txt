@@ -175,3 +175,6 @@
 0.0.0.0 mssdk16-normal-no1a.tiktokv.eu
 0.0.0.0 jsb16-normal-no1a.tiktokv.eu
 0.0.0.0 oec-im-tt-i18n.tiktokglobalshopv.com
+0.0.0.0 pull-flv-f60-tt04.tiktokcdn-eu.com
+0.0.0.0 gecko32-normal-no1a.tiktokv.eu
+0.0.0.0 libra32-normal-no1a.tiktokv.eu
