@@ -186,3 +186,4 @@
 0.0.0.0 webcast16-normal-no1a.tiktokv.eu
 0.0.0.0 log16-normal-no1a.tiktokv.eu
 0.0.0.0 sf16.tiktokcdn-us.com
+0.0.0.0 tiktokpangle-b.us
