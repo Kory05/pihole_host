@@ -1,0 +1,3 @@
+# Some Allow Host
+
+outlook.office.com
