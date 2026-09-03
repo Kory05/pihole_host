@@ -1,8 +1,9 @@
 # General Host
 
 # General Telemetry and Logs
-0.0.0.0 telemetry.individual.githubcopilot.com # Telemetry of Github Copilot
-0.0.0.0 log.tailscale.com
+||telemetry.individual.githubcopilot.com^ # Telemetry of Github Copilot
+||log.tailscale.com^
+||x-fins.com^
 
 # Anuncios
-0.0.0.0 logs.ads.vungle.com	# Vungle: Plataforma de publicidad móvil utilizada en aplicaciones gratuitas
+||logs.ads.vungle.com^ # Vungle: Plataforma de publicidad móvil utilizada en aplicaciones gratuitas
