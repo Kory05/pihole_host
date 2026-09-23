@@ -140694,7 +140694,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fpssl-monitor-dal.omniture.com
 0.0.0.0 fpt.absa.co.za
 0.0.0.0 fpt.inxinternational.com
-0.0.0.0 fpt.microsoft.com
 0.0.0.0 fpt.norton.com
 0.0.0.0 fptadtrue-d.openx.net
 0.0.0.0 fptbdr.xyz
