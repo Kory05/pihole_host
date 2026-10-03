@@ -7,3 +7,6 @@
 
 # Anuncios
 ||logs.ads.vungle.com^ # Vungle: Plataforma de publicidad móvil utilizada en aplicaciones gratuitas
+
+# Malware
+||sikarugir.com^
