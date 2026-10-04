@@ -1,15 +1,15 @@
 # This is a copy of the original
 # Excluding some Brave domains
 ###########
-! Title: WhatZitTooya's Ad-Block (HOSTS)
-! Expires: Never
-! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
-! Author: WhatZitTooya
-! Last modified: 09 October 2023
-! Version: 10/09/2023
-! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
-! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
-! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
+# Title: WhatZitTooya's Ad-Block (HOSTS)
+# Expires: Never
+# Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
+# Author: WhatZitTooya
+# Last modified: 09 October 2023
+# Version: 10/09/2023
+# Homepage: https://github.com/What-Zit-Tooya/Ad-Block
+# Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
+# License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 # UNIVERSAL
 ||o446669.ingest.sentry.io^
 ||42trck.com^
@@ -82,7 +82,7 @@
 ||tr.www.cloudflare.com^
 ||us-east-1.route-1.000webhost.awex.io^
 ||wildcard.marketo.net.edgekey.net^
-! NEWRELIC
+# NEWRELIC
 ||chi-insights-collector.newrelic.com^
 ||chi-staging-collector-pool.newrelic.com^
 ||cloud-collector.eu.newrelic.com^
@@ -118,8 +118,8 @@
 ||staging-mobile-crash.newrelic.com^
 ||tls10.newrelic.com.cdn.cloudflare.net^
 ||trace-this.newrelic.com^
-! SHAREit: com.lenovo.anyshare.gps
-! Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
+# SHAREit: com.lenovo.anyshare.gps
+# Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
 ||asia-abroad.com^
 ||buruwan.com^
 ||cdn.ushareit.com^
@@ -162,15 +162,15 @@
 ||wshareit.com^
 ||www.pullcf.com^
 ||www.pullcm.com^
-! Detik: org.detikcom.rss
-! CNN Indonesia: com.cnn.indonesia
-! CNBC Indonesia: com.cnbc.indonesia
-! Liputan6.com: com.woi.liputan6.android
-! BEGIN Video Block. Unblock this if you want to see Video
+# Detik: org.detikcom.rss
+# CNN Indonesia: com.cnn.indonesia
+# CNBC Indonesia: com.cnbc.indonesia
+# Liputan6.com: com.woi.liputan6.android
+# BEGIN Video Block. Unblock this if you want to see Video
 ||vod.cnbcindonesia.com^
 ||vod.cnnindonesia.com^
 ||vod.detik.com^
-! END Video Block
+# END Video Block
 ||analytic.detik.com^
 ||2mdn.net^
 ||cdnstatic.detik.com^
@@ -180,32 +180,32 @@
 ||newrevive.detik.com^
 ||push.detik.com^
 ||sessions.bugsnag.com^
-! Mozilla's Apps
+# Mozilla's Apps
 ||location.services.mozilla.com^
 ||telemetry.mozilla.org^
-! Lazada Indonesia: com.lazada.android
+# Lazada Indonesia: com.lazada.android
 ||adash.man.aliyuncs.com^
 ||adashbc.m.taobao.com^
 ||adashbc.ut.taobao.com^
 ||go-mpulse.net^
 ||h-adashx4sg.ut.taobao.com^
 ||yixiu-abtest.alicdn.com^
-! Bardi Smart Home: com.bardi.smart.home
+# Bardi Smart Home: com.bardi.smart.home
 ||h1.iot-dns.com^
 ||tuyacn.com^
-! by.U - The All-Digital Provider: com.byu.id
+# by.U - The All-Digital Provider: com.byu.id
 ||codepush.appcenter.ms^
 ||in.appcenter.ms^
-! Opera Mini:com.opera.mini.native
-! Opera Browser: com.opera.browser
-! Opera Browser beta: com.opera.browser.beta
-! Opera Touch: com.opera.touch
-! BEGIN Block News
+# Opera Mini:com.opera.mini.native
+# Opera Browser: com.opera.browser
+# Opera Browser beta: com.opera.browser.beta
+# Opera Touch: com.opera.touch
+# BEGIN Block News
 ||cdn-af.op-mobile.opera.com^
 ||discover.operacdn.com^
 ||feednews.com^
 ||news.opera-api.com^
-! END Block News
+# END Block News
 ||api.recsys.opera.com^
 ||api.sec-tunnel.com^
 ||api-a.op-mobile.opera.com^
@@ -220,10 +220,10 @@
 ||thumbnails2.opera.com^
 ||t-odx.op-mobile.opera.com^
 ||xml.opera.com^
-! Drakor.ID: com.stream.drakorindoawet
-! Drakor.id - Nonton Drama Korea Sub Indo: com.drakorid.app
-! Drakorid+: com.drakorid.stream
-! Drakor.id: com.kimchilabs.drakorid
+# Drakor.ID: com.stream.drakorindoawet
+# Drakor.id - Nonton Drama Korea Sub Indo: com.drakorid.app
+# Drakorid+: com.drakorid.stream
+# Drakor.id: com.kimchilabs.drakorid
 ||achcdn.com^
 ||ahvclick.com^
 ||ad.foxnetworks.com^
@@ -252,14 +252,14 @@
 ||uhqpnhorurueku.com^
 ||unreshiramor.com^
 ||yourwebbars.com^
-! WhatsApp Messenger: com.whatsapp
-! WhatsApp Business: com.whatsapp.w4b
+# WhatsApp Messenger: com.whatsapp
+# WhatsApp Business: com.whatsapp.w4b
 ||android-crashlog.whatsapp.net^
 ||crashlogs.whatsapp.net^
 ||dit.whatsapp.net^
 ||privatestats.whatsapp.net^
-! HAGO: com.yy.hiyo
-! Noizz - formerly Biugo: com.yy.biu
+# HAGO: com.yy.hiyo
+# Noizz - formerly Biugo: com.yy.biu
 ||act.umeng.com^
 ||activity.umeng.com^
 ||adashx4sg.ut.taobao.com^
@@ -345,15 +345,15 @@
 ||wsq.umeng.com^
 ||www.umeng.com^
 ||zebra.umeng.com^
-! AOL - News, Mail & Video: com.aol.mobile.aolapp
-! Yahoo Mail: com.yahoo.mobile.client.android.mail
+# AOL - News, Mail & Video: com.aol.mobile.aolapp
+# Yahoo Mail: com.yahoo.mobile.client.android.mail
 ||analytics.query.yahoo.com^
 ||by.uservoice.com^
 ||exceptions.mobile.yahoo.com^
 ||guce.oath.com^
 ||service.cmp.oath.com^
 ||smarttv-smartinfo.manhattan.yahoo.com^
-! NekoPoi: com.usamin.nekopoi
+# NekoPoi: com.usamin.nekopoi
 ||a.applvn.com^
 ||ads.inmobi.com^
 ||advertising.yahoo.com^
@@ -418,9 +418,9 @@
 ||yuqnibpyn.com^
 ||z.moatads.com^
 ||zdaptrksg.com^
-! TikTok: com.zhiliaoapp.musically
-! TikTok ID: com.ss.android.ugc.trill
-! TikTok Lite: com.zhiliaoapp.musically.go
+# TikTok: com.zhiliaoapp.musically
+# TikTok ID: com.ss.android.ugc.trill
+# TikTok Lite: com.zhiliaoapp.musically.go
 ||a16-tb.isnssdk.com^
 ||act.snssdk.com^
 ||ads.tiktok.com^
@@ -472,7 +472,7 @@
 ||rocket.snssdk.com^
 ||temai.snssdk.com^
 ||xgfe.snssdk.com^
-! Likee - Let You Shine: video.like
+# Likee - Let You Shine: video.like
 ||api.imotech.tech^
 ||api.liketech.tech^
 ||gdl.liketech-cdn.site^
@@ -483,7 +483,7 @@
 ||static-web.likeevideo.com^
 ||v16-ad.byteoversea.com^
 ||videosnap.like.video^
-! SnackVideo: com.kwai.bulldog
+# SnackVideo: com.kwai.bulldog
 ||acs-m.lazada.sg^
 ||ak-static.snackvideo.in^
 ||aws-logsdk.snackvideo.com^
@@ -502,7 +502,7 @@
 ||ulog.kwaipros.com^
 ||ulog.kwai-pro.com^
 ||wlog.kuaishou.com^
-! HUAWEI PHONES
+# HUAWEI PHONES
 ||a23-2-9-200.deploy.static.akamaitechnologies.com^
 ||adx-dra-op-hicloud-com-dra.appacc.dbankedge.net^
 ||adx-dra.op.dbankcloud.com^
@@ -550,8 +550,8 @@
 ||static1.dmcdn.net^
 ||tracker-device-dre.things.hicloud.com^
 ||tracker-dre.things.hicloud.com^
-! XIAOMI PHONES
-! Pulled from Xiaomi's subdomains, also tested on Global ROM
+# XIAOMI PHONES
+# Pulled from Xiaomi's subdomains, also tested on Global ROM
 ||a.stat.xiaomi.com^
 ||abroad.api.comm.intl.miui.com^
 ||act.browser.intl.miui.com^
@@ -838,7 +838,7 @@
 ||xpa.assistant.miui.com^
 ||zeppelin.sec.miui.com^
 ||zeus.ad.xiaomi.com^
-! Shopee Indonesia: com.shopee.id
+# Shopee Indonesia: com.shopee.id
 ||1255300759.vod2.myqcloud.com^
 ||1500000774.vod2.myqcloud.com^
 ||c-api-bit.shopeemobile.com^
@@ -861,7 +861,7 @@
 ||userstats.shopee.sg^
 ||userstats.shopee.tw^
 ||userstats.shopee.vn^
-! F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein
+# F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein
 ||alisg-normal-lb.byteoversea.net^
 ||bds-sg.byteoversea.com^
 ||dm16-alisg.byteoversea.com^
@@ -869,16 +869,16 @@
 ||movie-indo-5b984.firebaseapp.com^
 ||sdfp-sg.byteoversea.com^
 ||sf-tb-sg.ibytedtos.com^
-! Snaptube: com.snaptube.premium
+# Snaptube: com.snaptube.premium
 ||analytics.snaptube.app^
 ||android.bugly.qq.com^
 ||apps.ad.snaptube.app^
 ||config.ad.snaptube.app^
 ||push.snaptube.app^
-! RCTI+: com.fta.rctitv
+# RCTI+: com.fta.rctitv
 ||analytics.rctiplus.com^
-! OPPO PHONES
-! Maybe REALME too, need test throughly
+# OPPO PHONES
+# Maybe REALME too, need test throughly
 ||i-sg.magazine.heytapmobile.com^
 ||aax-fe.amazon-adsystem.com^
 ||adx-id.ads.heytapmobile.com^
@@ -957,8 +957,8 @@
 ||v1.cnzz.com^
 ||videoclipf.apps.coloros.com^
 ||www.heytap.com^
-! AVAST & AVL
-! From built-in Anti-Virus Chinese phones
+# AVAST & AVL
+# From built-in Anti-Virus Chinese phones
 ||analytics-stage.ff.avast.com^
 ||analytics-test.ff.avast.com^
 ||analytics.ff.avast.com^
@@ -976,7 +976,7 @@
 ||shepherd.sb.avast.com^
 ||streamback.ns1.ff.avast.com^
 ||us.log.slb.avlyun.com^
-! WPS Office: cn.wps.moffice_eng
+# WPS Office: cn.wps.moffice_eng
 ||abroad-ad.kingsoft-office-service.com^
 ||ap-device-pro.csftr.com^
 ||cloudservice14.kingsoft-office-service.com^
@@ -988,7 +988,7 @@
 ||plugin-server.wps.com^
 ||plugin-server.4wps.net^
 ||service-api.kingsoft-office-service.com^
-! UC Browser: com.UCMobile.intl
+# UC Browser: com.UCMobile.intl
 ||adn.insight.ucweb.com^
 ||apissug-sf.ucweb.com^
 ||apiuccenter.ucweb.com^
@@ -1073,14 +1073,14 @@
 ||tuser.info^
 ||webservice.tclmobile.cn^
 ||wutlar.fortumo.com^
-! Kiwi Browser: com.kiwibrowser.browser
+# Kiwi Browser: com.kiwibrowser.browser
 ||kiwisearchservices.com^
 ||kiwisearchservices.net^
-! Puffin Web Browser: com.cloudmosa.puffinFree
+# Puffin Web Browser: com.cloudmosa.puffinFree
 ||collector.cloudmosa.net^
-! Brave Browser: com.brave.browser
-! Brave Browser (Beta): com.brave.browser_beta
-! Brave Browser (Nightly): com.brave.browser_nightly
+# Brave Browser: com.brave.browser
+# Brave Browser (Beta): com.brave.browser_beta
+# Brave Browser (Nightly): com.brave.browser_nightly
 ||ads-serve.brave.com^
 ||ads-static.brave.com^
 ||componentupdater.brave.com^
@@ -1090,11 +1090,11 @@
 ||p3a.brave.com^
 ||rewards.brave.com^
 ||variations.brave.com^
-! KSMOBILE A.K.A CHEETAH MOBILE (CMCM)
-! Badware, also known as malware apps
-! It's famous application is Clean Master
-! app id: com.cleanmaster.mguard
-! Remove it from your phone, ASAP
+# KSMOBILE A.K.A CHEETAH MOBILE (CMCM)
+# Badware, also known as malware apps
+# It's famous application is Clean Master
+# app id: com.cleanmaster.mguard
+# Remove it from your phone, ASAP
 ||adkmob.com^
 ||adkmob.jp^
 ||cmcm.com^
@@ -1106,48 +1106,48 @@
 ||www.cmcm.com.scc.topgslb.com^
 ||www.cmcm.com.spdydns.com^
 ||zcmglobal.v.bsgslb.cn^
-! Facemoji Keyboard - Cute Emoji & Theme: com.facemoji.lite.xiaomi
-! Default Keyboard for Xiaomi Phones
-! Tested on MIUI 12.5 Global ROM
-! Facemoji Emoji Keyboard:Emoji Keyboard,Theme,Font: com.simejikeyboard
+# Facemoji Keyboard - Cute Emoji & Theme: com.facemoji.lite.xiaomi
+# Default Keyboard for Xiaomi Phones
+# Tested on MIUI 12.5 Global ROM
+# Facemoji Emoji Keyboard:Emoji Keyboard,Theme,Font: com.simejikeyboard
 ||globalmsg.facemojikeyboard.com^
 ||liteapi.ekatox.com^
 ||litemsg.ekatox.com^
 ||litestatis.ekatox.com^
 ||statis.facemojikeyboard.com^
-! Vision+: Nonton TV & Film Streaming: com.zte.iptvclient.android.idmnc
+# Vision+: Nonton TV & Film Streaming: com.zte.iptvclient.android.idmnc
 ||analytics.mncdigital.id^
 ||apprating.visionplus.id^
 ||visionplus.mncanalytics.id^
 ||analytics-api.visionplus.id^
 ||adsmgmt.visionplus.id^
-! AdGuard: com.adguard.android
+# AdGuard: com.adguard.android
 ||events.adguard.com^
-! M$ Apps: https://play.google.com/store/apps/dev?id=6720847872553662727
+# M$ Apps: https://play.google.com/store/apps/dev?id=6720847872553662727
 ||browser.events.data.msn.com^
 ||events.data.microsoft.com^
 ||nexus.officeapps.live.com^
 ||nexusrules.officeapps.live.com^
-! League of Legends: Wild Rift: com.riotgames.league.wildrift
+# League of Legends: Wild Rift: com.riotgames.league.wildrift
 ||bugly.cros.wr.pvp.net^
-! Resso: com.moonvideo.android.resso
+# Resso: com.moonvideo.android.resso
 ||log.resso.app^
 ||rtlog.resso.app^
-! Call of Duty®: Mobile - Garena: com.garena.game.codm
+# Call of Duty®: Mobile - Garena: com.garena.game.codm
 ||astat.bugly.qcloud.com^
-! SAMSUNG PHONES
-! Pulled from AdGuard Home log
-! Need test througly
+# SAMSUNG PHONES
+# Pulled from AdGuard Home log
+# Need test througly
 ||sspapi-prd.samsungrs.com^
 ||sdk.pushmessage.samsung.com^
 ||ureca.samsungapps.com^
-! WeTV - Cdrama, Kdrama & More: com.tencent.qqlivei18n
+# WeTV - Cdrama, Kdrama & More: com.tencent.qqlivei18n
 ||btrace.wetvinfo.com^
 ||mtrace.wetvinfo.com^
 ||stat.tpns.hk.tencent.com^
-! INFINIX PHONES
-! Captured from AdGuard Home
-! Need tested throughly
+# INFINIX PHONES
+# Captured from AdGuard Home
+# Need tested throughly
 ||agafurretor.com^
 ||api.twibida.com^
 ||ds.shalltry.com^
@@ -1157,9 +1157,9 @@
 ||ire-dsu.shalltry.com^
 ||newsaggreg.shalltry.com^
 ||toolgroup.shalltry.com^
-! MEIZU PHONES
-! Pulled from AdGuard Home
-! Need Tested Throughly
+# MEIZU PHONES
+# Pulled from AdGuard Home
+# Need Tested Throughly
 ||ak.icecyber.org^
 ||api-push.in.meizu.com^
 ||api.applovefrom.com^
@@ -1196,7 +1196,7 @@
 ||uxip-res.meizu.com^
 ||uxip.meizu.com^
 ||zen.yandex.com^
-! MEDIATEK
+# MEDIATEK
 ||aepodownload.mediatek.com^
 ||d2axy0j4uulh4.cloudfront.net^
 ||epodownload.mediatek.com^
@@ -1221,17 +1221,17 @@
 ||sfepodownload.mediatek.com^
 ||sgepodownload.mediatek.com^
 ||tsmepodownload.mediatek.com^
-! Apex Legends Mobile: com.ea.gp.apexlegendsmobilefps
+# Apex Legends Mobile: com.ea.gp.apexlegendsmobilefps
 ||bugly-android.mgapex.com^
-! GitHub: com.github.android
+# GitHub: com.github.android
 ||collector.githubapp.com^
-! Grab Superapp: com.grabtaxi.passenger
+# Grab Superapp: com.grabtaxi.passenger
 ||ads-cdn.grab.com^
-! Tokopedia: com.tokopedia.tkpd
+# Tokopedia: com.tokopedia.tkpd
 ||log.tokopedia.net^
-! Zoom Meetings: us.zoom.videomeetings
+# Zoom Meetings: us.zoom.videomeetings
 ||logfiles.zoom.us^
-! Outfit7 Games (e.g Talking Tom, etc)
+# Outfit7 Games (e.g Talking Tom, etc)
 ||aax.amazon-adsystem.com^
 ||ads.superawesome.tv^
 ||analytics.kidoz.net^
